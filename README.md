@@ -48,25 +48,25 @@ Enabled quicker diagnosis and mitigation of performance degradation, reducing op
 
 ### Experimental Results (Summary)
 
-  | Nodes | Baseline (ms) | AI-Optimized (ms) | Improvment (%)  |
-  |-------|---------------| ------------------| ----------------|
-  | 3     |  410          | 260               | 36.59           |
-  | 5     |  375          | 225               | 40.00           |
-  | 7     |  340          | 195               | 42.65           |
-  | 9     |  315          | 175               | 44.44           |
-  | 11    |  295          | 165               | 44.07           |
+  | Nodes | Baseline Request Completion Time (ms) | Multimodal Request Completion Tim (ms) | Improvment (%)  |
+  |-------|---------------------------------------| ---------------------------------------| ----------------|
+  | 3     |  120                                  | 95                                     | 20.83           |
+  | 5     |  145                                  | 115                                    | 20.69           |
+  | 7     |  175                                  | 140                                    | 20.00           |
+  | 9     |  210                                  | 165                                    | 21.43           |
+  | 11    |  250                                  | 195                                    | 22.00           |
 
 ### Citation
-AI-DRIVEN SCALING STRATEGIES FOR ADAPTIVE WORKLOAD MANAGEMENT IN DISTRIBUTED CLOUD SYSTEMS
-* Kalesha Khan Pattan
-* International Journal of Leading Research Publication 
-* ISSN E-ISSN: 2582-8010
+Multimodal Observability for Input Output Bottleneck Detection
+* Arunkumar Sambandam
+* ***********************************International Journal of Leading Research Publication 
+* ISSN E-ISSN: *****************************2582-8010
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \
-https://www.ijlrp.com/ \
+https://www.ijlrp.com*****************/ \
 **Author Contact** \
-**LinkedIn**: https://www.linkedin.com/**** | **Email**: pattankalesha520@gmail.com
+**LinkedIn**: https://www.linkedin.com/**** | **Email**: arunkumar.sambandam@yahoo.com
 
 
 
