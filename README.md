@@ -43,7 +43,7 @@ Enabled quicker diagnosis and mitigation of performance degradation, reducing op
   Improved system stability by providing continuous visibility into shifting I/O contention patterns, supporting proactive performance management instead of reactive tuning.
    
 - **Production and Research Applicability:**
-    Delivered a framework compatible with modern distributed and cloud-native environments, offering a complete reference model—architecture, implementation, and evaluation—suitable
+    Delivered a framework compatible with modern distributed and cloud native environments, offering a complete reference model—architecture, implementation, and evaluation suitable
     for industry observability platforms, academic research, and advanced systems education.
 
 ### Experimental Results (Summary)
