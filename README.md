@@ -4,12 +4,11 @@
 
 ### Paper Information
 - **Author(s):** Arunkumar Sambandam
-- **Published In:** *********************************************International Journal of Leading Research Publication (IJLRP)
+- **Published In:** Computer Fraud and security
 - **Publication Date:** ******Aug 2021
-- **ISSN:** E-ISSN: **********2582-8010
+- **ISSN:** E-ISSN: 1873-7056
 - **DOI:**
-- **Impact Factor:** *******9.56
-
+- **Impact Factor:** 
 ### Abstract
 This paper addresses the challenge of identifying Input/Output bottlenecks in complex distributed data pipelines where isolated observability metrics provide limited insight. 
 It highlights how single-modal monitoring fails to accurately localize performance issues caused by cross-layer interactions in dynamic, heterogeneous environments. The proposed 
@@ -59,14 +58,14 @@ Enabled quicker diagnosis and mitigation of performance degradation, reducing op
 ### Citation
 Multimodal Observability for Input Output Bottleneck Detection
 * Arunkumar Sambandam
-* ***********************************International Journal of Leading Research Publication 
-* ISSN E-ISSN: *****************************2582-8010
+* Computer Fraud and security 
+* ISSN E-ISSN: 1873-7056
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \
-https://www.ijlrp.com*****************/ \
+[https://www.ijlrp.com*****************/ \](https://computerfraudsecurity.com/index.php/journal/article/view/903/635)
 **Author Contact** \
-**LinkedIn**: https://www.linkedin.com/**** | **Email**: arunkumar.sambandam@yahoo.com
+**LinkedIn**: linkedin.com/in/arunkumar-sambandam-9b769b6 | **Email**: arunkumar.sambandam@yahoo.com
 
 
 
