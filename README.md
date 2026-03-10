@@ -63,7 +63,7 @@ Multimodal Observability for Input Output Bottleneck Detection
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \
-[https://www.ijlrp.com*****************/ \](https://computerfraudsecurity.com/index.php/journal/article/view/903/635)
+[https://www.ijlrp.com*****************/ \](https://computerfraudsecurity.com/index.php/journal/article/view/903/635) \
 **Author Contact** \
 **LinkedIn**: linkedin.com/in/arunkumar-sambandam-9b769b6 | **Email**: arunkumar.sambandam@yahoo.com
 
